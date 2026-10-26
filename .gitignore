@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/broker_logs/
+data/lakehouse/
